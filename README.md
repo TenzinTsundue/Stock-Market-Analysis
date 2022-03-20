@@ -18,5 +18,7 @@ In this notebook we will be looking at TSX(Toronto Stock Exchage) data to help m
     * based on recent price action(Catch the dip)
 4. Which stock to pick of swing trade
     * based on price action 
+      * % change
+      * 52 weeks high and low (compare to current)
 
 
